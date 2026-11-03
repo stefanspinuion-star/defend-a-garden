@@ -1,0 +1,132 @@
+{
+  "site_name": "Defend a Garden",
+  "months": ["ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie", "august", "septembrie", "octombrie", "noiembrie", "decembrie"],
+  "play": "Joacă gratis pe Roblox",
+  "skip": "Sari la conținut",
+  "nav_label": "Meniu principal",
+  "lang_label": "Limba",
+  "nav": {"index": "Acasă", "news": "Noutăți", "store": "Prăvălie", "roadmap": "Planuri", "codes": "Coduri", "press": "Presă"},
+  "titles": {"index": "Acasă", "news": "Noutăți", "store": "Prăvălie", "roadmap": "Planuri", "codes": "Coduri", "press": "Kit de presă", "privacy": "Confidențialitate"},
+  "descriptions": {
+    "index": "Un tower defense liniștit pe Roblox, cu un mister dedesubt: plantează apărători, ține Răzmerița până în zori și găsește secretele lăsate de bătrânul Fennick.",
+    "news": "Noutăți și jurnal de dezvoltare pentru Defend a Garden, un tower defense cu grădină și poveste pe Roblox.",
+    "store": "Ce poți cumpăra în Defend a Garden, ce primești și cum obții același lucru gratis, jucând.",
+    "roadmap": "Ce există acum în Defend a Garden și ce urmează.",
+    "codes": "Coduri active pentru Defend a Garden, verificate de dezvoltator, și cum le folosești.",
+    "press": "Kit de presă Defend a Garden: fișă, descriere, capturi de ecran și iconiță.",
+    "privacy": "Acest site nu colectează nimic: fără cookie-uri, fără statistici, fără conturi."
+  },
+  "hero_eyebrow": "Un tower defense cu grădină pe Roblox",
+  "hero_title": "Grădina crește prea repede. În fiecare noapte, ceva vine după Inima ei.",
+  "hero_lede": "Bătrânul Fennick a îngrijit grădina ani la rând, până într-o noapte de toamnă, când a aprins toate felinarele și a dispărut. Acum Păzitorul ești tu.",
+  "hero_secondary": "Ce e nou",
+  "hero_fine": "Gratis · PC, telefon și tabletă · deocamdată pentru jucători de 16+ cu vârsta verificată pe Roblox",
+  "hero_alt": "Grădina la apus: casa Păzitorului, apărători luminoși de-a lungul cărării, iazul și marea",
+  "story_title": "Un joc liniștit, cu ceva mai adânc dedesubt",
+  "story": [
+    "Ziua lucrezi în grădină: plantezi, uzi, culegi, decorezi. La apus, vizuinile de pe plaja de nord încep să vuiască, iar la miezul nopții iese **Răzmerița** — vietățile aleargă pe cărare spre Inima luminoasă a grădinii.",
+    "Pe tine nu te rănesc niciodată. Caută ceva. Fiecare Păzitor găsește alte pagini ale poveștii, așa că nimeni nu o are întreagă, iar cerul nopții ține socoteala a ce ai găsit."
+  ],
+  "features_title": "Ce faci",
+  "features": [
+    {"title": "Plantezi apărători", "text": "Trăgător-lăstar, Tufa cu spini, Floarea de ger, Boaba-bombă, Crinul de soare, Vița-capcană — semințe care se trezesc și luptă. Așază-le de-a lungul cărării și ridică-le nivelul."},
+    {"title": "Ții noaptea", "text": "Fiecare Răzmeriță e o noapte. Apără Inima până în zori cu apărătorii și cu uneltele vechi ale lui Fennick: grebla, praștia și stropitoarea. La fiecare a 5-a noapte, o căpetenie."},
+    {"title": "Găsești secretele", "text": "37 de fragmente ascunse pe insulă: cheiul vechi, vizuina, faleza unde rădăcinile ies la suprafață. Douăsprezece stele de pe cer se aprind pe măsură ce le găsești."}
+  ],
+  "gallery_title": "De pe insulă",
+  "gallery": [
+    {"img": "riot", "alt": "Miezul nopții: vietățile aleargă pe cărare, iar apărătorii deschid focul"},
+    {"img": "constellation", "alt": "Douăsprezece stele desenează un copac cu capul în jos, chiar deasupra insuliței"},
+    {"img": "boss-sky", "alt": "O noapte cu căpetenie: ceva vechi intră în grădină sub stelele Rădăcinii"},
+    {"img": "pier", "alt": "Cheiul vechi privește spre o insuliță de la orizont"}
+  ],
+  "latest_title": "Ultimele noutăți",
+  "all_news": "Toate noutățile",
+  "read_more": "Citește mai departe",
+  "cta_title": "Vino să păzești grădina",
+  "cta_text": "Ai găsit un secret? Spune-le altor Păzitori în comunitatea noastră de pe Roblox. Nimeni nu le are pe toate.",
+  "community": "Comunitatea pe Roblox",
+  "tags": {"update": "Actualizare", "notes": "Notițele Păzitorului", "story": "Poveste"},
+  "news_title": "Noutăți",
+  "news_lede": "Ce s-a schimbat în grădină, cele mai noi primele.",
+  "store_title": "Prăvălie",
+  "store_lede": "Totul în joc se poate câștiga jucând. Ce cumperi e o scurtătură pe același drum, niciodată ceva de neatins gratis. **Cumpărăturile se fac pe Roblox** — acest site nu primește plăți.",
+  "free_path": "Gratis",
+  "view_on_roblox": "Vezi pe Roblox",
+  "passes": {
+    "wind_staff": {"name": "Toiagul Vântului — Forma lui Fennick", "what": "Pagina lui Fennick pentru greblă: ține-o ca pe toiagul unui călugăr. A 3-a lovitură **se întoarce** (+20%), a 5-a **încununează** (+40%), cu dâră și sunete proprii.", "free": "150 de nopți câștigate cu grebla și înveți ritmul exersând, fără aspect."},
+    "seed_rain": {"name": "Ploaia de Semințe — Forma lui Fennick", "what": "Pagina lui Fennick pentru praștie: respiră, întinde, lasă. A 3-a sămânță se întoarce, a 5-a încununează, cu dâră și sunete proprii.", "free": "150 de nopți câștigate cu praștia."},
+    "keepers_book": {"name": "Cartea Păzitorului — pentru totdeauna", "what": "+10% experiență din recolte, apărare și serii, pentru totdeauna.", "free": "nivelurile cresc oricum; cartea doar scurtează drumul."},
+    "starter_pack": {"name": "Pachetul de început", "what": "O singură dată: 5 × Al Doilea Răsărit, Cartea pe 30 de zile, titlul **Păzitorul Primei Zori** și felinare în culoarea zorilor. Apare după prima noapte câștigată.", "free": "un Al Doilea Răsărit gratis în fiecare zi."},
+    "extra_plot": {"name": "Strat în plus", "what": "Deschide imediat al doilea strat, ca să crești mai mult deodată.", "free": "al doilea strat se deschide singur la nivelul 10."}
+  },
+  "products_title": "Se cumpără în joc",
+  "products_lede": "Sunt cumpărături unice sau pe 30 de zile. În joc: **☰ → Prăvălie**.",
+  "products": {
+    "second_dawn": {"name": "Al Doilea Răsărit", "what": "Când Inimii îi mai rămâne o mușcătură, mai rezistă una în noaptea asta. Unul gratis în fiecare zi."},
+    "book_30": {"name": "Cartea Păzitorului, 30 de zile", "what": "+15% experiență timp de 30 de zile."},
+    "style_30": {"name": "O Formă pe 30 de zile", "what": "Toiagul Vântului sau Ploaia de Semințe pe 30 de zile în loc de pentru totdeauna."}
+  },
+  "store_fine": "Prețurile sunt în Robux și sunt stabilite pe Roblox; dacă diferă de această pagină, are dreptate Roblox. Șansele recoltelor rare sunt aceleași pentru toți și nu se schimbă cu cumpărăturile.",
+  "roadmap_title": "Planuri",
+  "roadmap_lede": "Ce e deja în joc și ce urmează. Datele sunt planuri, nu promisiuni; se mută când ceva are nevoie de mai multă grijă.",
+  "status": {"live": "În joc", "next": "Curând", "planned": "Planificat"},
+  "roadmap_items": {
+    "chapter2": {"title": "Capitolul 2: Șoapte de dedesubt", "text": "Cărarea lui Fennick în jurul insulei, 17 secrete noi, nopți și un cer care ține ceasul Răzmeriței."},
+    "altar": {"title": "Grădina cere ceva înapoi", "text": "Sub al cincilea piedestal îi poți da recoltele Rădăcinii. Bunăvoința schimbă felul în care se poartă Regina Rădăcinilor."},
+    "bridge_first": {"title": "Podul de rădăcini: prima deschidere", "text": "Ce dă fiecare Păzitor crește un pod de la Cheiul Vechi spre insula de la orizont."},
+    "boss_week": {"title": "Săptămâna căpeteniilor", "text": "Mai multe nopți cu căpetenii pentru Păzitorii noi, ca să le întâlnească mai devreme."},
+    "first_night": {"title": "O primă noapte mai ușoară", "text": "Primii pași mai clari pentru Păzitorii noi: prima sămânță, primul apărător, primii zori."},
+    "bridge_last": {"title": "Podul poate ajunge la insulă", "text": "Ultima din cele șase deschideri nu poate crește înainte de această dată."},
+    "chapter3": {"title": "Capitolul 3", "text": "Ce așteaptă pe insuliță. Planificat pentru sfârșitul lui noiembrie."},
+    "winter_hunts": {"title": "Vânători de iarnă", "text": "Noi vânători săptămânale după secretele grădinii, toată luna decembrie."}
+  },
+  "codes_title": "Coduri",
+  "codes_lede": "Codurile dau recompense mici, pe timp limitat. Fiecare cod nou îl publicăm aici și în comunitatea de pe Roblox, așa că lista e mereu cea adevărată.",
+  "codes_checked": "Verificat de dezvoltator",
+  "codes_none": "**Acum nu sunt coduri active.** Codurile noi apar când Păzitorii ating împreună un obiectiv. Urmărește-ne pe Bluesky sau intră în comunitatea de pe Roblox ca să afli primul.",
+  "codes_how_title": "Cum folosești un cod",
+  "codes_how": ["Deschide jocul pe Roblox.", "Apasă **☰** (meniul) și alege **Coduri**.", "Scrie codul și apasă **Folosește**. Spațiile și literele mari nu contează."],
+  "press_title": "Kit de presă",
+  "press_lede": "Tot ce îți trebuie ca să scrii despre Defend a Garden sau să-l filmezi. Poți folosi liber aceste imagini și texte în materiale despre joc.",
+  "press_facts_title": "Fișă",
+  "press_facts": [
+    ["Joc", "Defend a Garden"],
+    ["Dezvoltator", "un singur dezvoltator (comunitatea Roblox **Defend a Garden Official**)"],
+    ["Platformă", "Roblox — PC, telefon, tabletă"],
+    ["Lansare", "2026, actualizat în fiecare săptămână"],
+    ["Gen", "tower defense cu grădină și poveste"],
+    ["Preț", "gratuit, cumpărături opționale"],
+    ["Limbi", "engleză, română, rusă"],
+    ["Public", "deocamdată jucători de 16+ cu vârsta verificată pe Roblox"]
+  ],
+  "press_about_title": "Despre joc",
+  "press_about": [
+    "Departe, într-o mare caldă, crește o grădină care crește prea repede. Bătrânul Fennick a îngrijit-o ani la rând, până într-o noapte de toamnă, când a aprins toate felinarele și a dispărut. Jucătorul este noul Păzitor.",
+    "Ziua lucrezi în grădină; în fiecare noapte vine Răzmerița: vietățile aleargă pe cărare spre Inima luminoasă a grădinii, iar tu ții noaptea cu apărători treziți și cu uneltele vechi ale lui Fennick. Sub suprafața liniștită e un mister despre ce ia grădina de la insulă, spus în fragmente pe care fiecare jucător le găsește în altă ordine."
+  ],
+  "press_features_title": "Pe scurt",
+  "press_features": [
+    "6 apărători, 3 arme cu abilități, o căpetenie la fiecare a 5-a noapte",
+    "37 de secrete ale poveștii pe insulă și un cer de noapte care le ține socoteala",
+    "Zi și noapte: apusul e avertismentul, Răzmerița e miezul nopții",
+    "Vânători săptămânale și un obiectiv comun: un pod de rădăcini crescut de toți Păzitorii",
+    "Orice cumpărătură are un drum gratuit spre același lucru"
+  ],
+  "press_images_title": "Capturi de ecran",
+  "press_images_text": "Capturi din versiunea live (noiembrie 2026), fără interfață. Apasă pe o imagine pentru fișierul la mărime completă.",
+  "press_icon": "Iconița jocului (PNG)",
+  "press_hero": "Imagine lată (JPG)",
+  "press_contact_title": "Contact",
+  "press_contact": "Trimite un mesaj către **@defendagarden.bsky.social** pe Bluesky. Creatorilor care vor să filmeze jocul le ajutăm cu un server liniștit sau o noapte cu căpetenie, la cerere.",
+  "privacy_title": "Confidențialitate",
+  "privacy": [
+    "Acest site nu folosește cookie-uri, statistici, trackere sau conturi și nu are formulare. Nu colectăm nimic despre tine aici.",
+    "Site-ul este găzduit pe **GitHub Pages**. Ca orice găzduire, GitHub poate păstra jurnale tehnice (de exemplu adrese IP) ca serviciul să funcționeze și să fie protejat; vezi declarația de confidențialitate GitHub.",
+    "Linkurile spre Roblox și Bluesky duc la acele servicii, care au propriile politici de confidențialitate. Jocul rulează pe Roblox, conform Termenilor de utilizare și Politicii de confidențialitate Roblox."
+  ],
+  "updated": "Actualizat",
+  "disclaimer": "Defend a Garden este un joc independent făcut pe Roblox. Acest site nu este afiliat cu Roblox Corporation și nici aprobat de aceasta.",
+  "notfound_title": "Cărarea asta a năpădit-o iarba",
+  "notfound_text": "Pagina căutată nu e aici. Întoarce-te în grădină."
+}

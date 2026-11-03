@@ -1,0 +1,132 @@
+{
+  "site_name": "Defend a Garden",
+  "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+  "play": "Play free on Roblox",
+  "skip": "Skip to content",
+  "nav_label": "Main",
+  "lang_label": "Language",
+  "nav": {"index": "Home", "news": "News", "store": "Store", "roadmap": "Roadmap", "codes": "Codes", "press": "Press kit"},
+  "titles": {"index": "Home", "news": "News", "store": "Store", "roadmap": "Roadmap", "codes": "Codes", "press": "Press kit", "privacy": "Privacy"},
+  "descriptions": {
+    "index": "A cosy tower defense on Roblox with a mystery underneath: plant defenders, hold the Riot until dawn, and find the secrets old Fennick left behind.",
+    "news": "Updates and devlog for Defend a Garden, a story-driven garden tower defense on Roblox.",
+    "store": "What you can buy in Defend a Garden, what it gives, and how to get the same thing for free by playing.",
+    "roadmap": "What is live in Defend a Garden now and what is coming next.",
+    "codes": "Active Defend a Garden codes, checked by the developer, and how to redeem them.",
+    "press": "Press kit for Defend a Garden: fact sheet, description, screenshots and icon.",
+    "privacy": "This website collects nothing: no cookies, no analytics, no accounts."
+  },
+  "hero_eyebrow": "A garden tower defense on Roblox",
+  "hero_title": "The garden grows too fast. Every night, something comes for its Heart.",
+  "hero_lede": "Old Fennick kept this garden for years, until one autumn night he lit every lantern and was gone. Now you are the new Keeper.",
+  "hero_secondary": "What's new",
+  "hero_fine": "Free · PC, phone and tablet · for now open to players 16+ with a Roblox age check",
+  "hero_alt": "The garden at sunset: the Keeper's house, glowing defenders along the path, the pond and the sea",
+  "story_title": "A cosy game with something deeper underneath",
+  "story": [
+    "By day you garden: plant, water, harvest, decorate. At sunset the burrows on the north beach start to hum, and at midnight the **Riot** pours out — critters racing down the path for your garden's glowing Heart.",
+    "They never hurt you. They are after something. Every Keeper finds different pages of the story, so nobody holds all of it, and the night sky keeps count of what you have found."
+  ],
+  "features_title": "What you do",
+  "features": [
+    {"title": "Plant defenders", "text": "Sprout Shooter, Thorn Bush, Frost Bloom, Bomb Berry, Sun Lily, Snare Vine — seeds that wake up and fight. Place them along the path and level them up."},
+    {"title": "Hold the night", "text": "Each Riot is one night. Hold the Heart until dawn with your defenders and Fennick's old tools: the Rake, the Slingshot and the Watering Can. Every 5th night, a boss."},
+    {"title": "Find the secrets", "text": "37 hidden fragments around the island: the old pier, the burrow, the cliff where roots break through. Twelve stars in the sky light up as you find them."}
+  ],
+  "gallery_title": "From the island",
+  "gallery": [
+    {"img": "riot", "alt": "Midnight: critters run down the path while the defenders open fire"},
+    {"img": "constellation", "alt": "Twelve stars draw a tree growing upside down, right above the little island"},
+    {"img": "boss-sky", "alt": "A boss night: something old walks into the garden under the Root's stars"},
+    {"img": "pier", "alt": "The old pier faces a little island on the horizon"}
+  ],
+  "latest_title": "Latest news",
+  "all_news": "All news",
+  "read_more": "Read more",
+  "cta_title": "Come and keep the garden",
+  "cta_text": "Found a secret? Tell other Keepers in our Roblox community. Nobody holds them all.",
+  "community": "Roblox community",
+  "tags": {"update": "Update", "notes": "Keeper's notes", "story": "Story"},
+  "news_title": "News",
+  "news_lede": "What changed in the garden, newest first.",
+  "store_title": "Store",
+  "store_lede": "Everything in the game can be earned by playing. What you buy is a shortcut on the same road, never something you can't reach for free. **Purchases happen on Roblox** — this site never takes payment.",
+  "free_path": "Free way",
+  "view_on_roblox": "View on Roblox",
+  "passes": {
+    "wind_staff": {"name": "Wind Staff — Fennick's Form", "what": "Fennick's page for the Rake: hold it like a monk's staff. Every 3rd blow **turns** (+20%), every 5th **crowns** (+40%), with its own trail and sounds.", "free": "win 150 nights with the Rake and you learn the rhythm by practice, without the look."},
+    "seed_rain": {"name": "Seed Rain — Fennick's Form", "what": "Fennick's page for the Slingshot: breathe, draw, let go. Every 3rd seed turns, every 5th crowns, with its own trail and sounds.", "free": "win 150 nights with the Slingshot."},
+    "keepers_book": {"name": "Keeper's Book — forever", "what": "+10% experience from harvests, defence and daily streaks, for good.", "free": "levels come anyway; the Book only speeds the road up."},
+    "starter_pack": {"name": "Starter Pack", "what": "Once per Keeper: 5 Second Dawns, the Keeper's Book for 30 days, the title **Keeper of the First Dawn** and dawn-coloured lanterns. Offered after your first night won.", "free": "one Second Dawn comes free every day."},
+    "extra_plot": {"name": "Extra Plot", "what": "Opens your second plot straight away, so you grow more at once.", "free": "the second plot opens by itself at level 10."}
+  },
+  "products_title": "Bought inside the game",
+  "products_lede": "These are one-off or 30-day items. Find them in the game under **☰ → Shop**.",
+  "products": {
+    "second_dawn": {"name": "Second Dawn", "what": "When the Heart has one bite left, it holds one more tonight. One is free every day."},
+    "book_30": {"name": "Keeper's Book, 30 days", "what": "+15% experience for 30 days."},
+    "style_30": {"name": "A Form for 30 days", "what": "Wind Staff or Seed Rain for 30 days instead of forever."}
+  },
+  "store_fine": "Prices are in Robux and are set on Roblox; if they differ from this page, Roblox is right. Odds of rare harvests are the same for everyone and never change with purchases.",
+  "roadmap_title": "Roadmap",
+  "roadmap_lede": "What is live and what is coming. Dates are plans, not promises; they move when something needs more care.",
+  "status": {"live": "Live", "next": "Next", "planned": "Planned"},
+  "roadmap_items": {
+    "chapter2": {"title": "Chapter 2: Whispers from Below", "text": "Fennick's Trail around the island, 17 new secrets, nights and a sky that keeps the Riot's clock."},
+    "altar": {"title": "The garden asks for something back", "text": "Under the fifth pedestal you can give your crops to the Root. Favour changes how the Root Queen behaves."},
+    "bridge_first": {"title": "The bridge of roots: first span", "text": "What every Keeper gives grows a bridge from the Old Pier towards the island on the horizon."},
+    "boss_week": {"title": "Boss week", "text": "More boss nights for new Keepers, so you meet them sooner."},
+    "first_night": {"title": "A smoother first night", "text": "Clearer first steps for new Keepers: the first seed, the first defender, the first dawn."},
+    "bridge_last": {"title": "The bridge can reach the island", "text": "The last of the six spans can grow no earlier than this date."},
+    "chapter3": {"title": "Chapter 3", "text": "What waits on the little island. Planned for late November."},
+    "winter_hunts": {"title": "Winter hunts", "text": "New weekly hunts for the secrets of the garden through December."}
+  },
+  "codes_title": "Codes",
+  "codes_lede": "Codes give small time-limited rewards. We post every new one here and in our Roblox community, so this list is always the real one.",
+  "codes_checked": "Checked by the developer",
+  "codes_none": "**No active codes right now.** New codes come with milestones the Keepers reach together. Follow us on Bluesky or join the Roblox community to hear first.",
+  "codes_how_title": "How to redeem a code",
+  "codes_how": ["Open the game on Roblox.", "Tap **☰** (the menu) and choose **Codes**.", "Type the code and press **Redeem**. Spaces and capital letters don't matter."],
+  "press_title": "Press kit",
+  "press_lede": "Everything you need to write about or film Defend a Garden. You can use these images and texts freely to cover the game.",
+  "press_facts_title": "Fact sheet",
+  "press_facts": [
+    ["Game", "Defend a Garden"],
+    ["Developer", "a solo developer (Roblox community **Defend a Garden Official**)"],
+    ["Platform", "Roblox — PC, phone, tablet"],
+    ["Released", "2026, updated every week"],
+    ["Genre", "tower defense with gardening and a story"],
+    ["Price", "free to play, optional purchases"],
+    ["Languages", "English, Romanian, Russian"],
+    ["Audience", "for now open to players 16+ with a Roblox age check"]
+  ],
+  "press_about_title": "About the game",
+  "press_about": [
+    "Far out in a warm sea grows a garden that grows too fast. Old Fennick kept it for years, until one autumn night he lit every lantern and was gone. The player is the new Keeper.",
+    "By day you garden; every night the Riot comes: critters race down the path for the garden's glowing Heart, and you hold the night with awakened defenders and Fennick's old tools. Underneath the cosy surface is a mystery about what the garden takes from the island — told in fragments that every player finds in a different order."
+  ],
+  "press_features_title": "Key features",
+  "press_features": [
+    "6 defenders, 3 weapons with skills, bosses every 5th night",
+    "37 story secrets around the island and a night sky that tracks them",
+    "Day and night cycle: the sunset is the warning, the Riot is midnight",
+    "Weekly hunts and a shared goal: a bridge of roots that all Keepers grow together",
+    "Every purchase has a free way to the same thing"
+  ],
+  "press_images_title": "Screenshots",
+  "press_images_text": "In-game captures from the live version (November 2026), HUD hidden. Click an image for the full-size file.",
+  "press_icon": "Game icon (PNG)",
+  "press_hero": "Wide key art (JPG)",
+  "press_contact_title": "Contact",
+  "press_contact": "Send a message to **@defendagarden.bsky.social** on Bluesky. Creators who want to film the game: we are happy to help with a quiet server or a boss night on request.",
+  "privacy_title": "Privacy",
+  "privacy": [
+    "This website does not use cookies, analytics, trackers or accounts, and it has no forms. We do not collect anything about you here.",
+    "The site is hosted on **GitHub Pages**. Like any web host, GitHub may keep technical logs (such as IP addresses) to run and protect the service; see GitHub's privacy statement.",
+    "Links to Roblox and Bluesky lead to those services, which have their own privacy policies. The game itself runs on Roblox under the Roblox Terms of Use and Privacy Policy."
+  ],
+  "updated": "Last updated",
+  "disclaimer": "Defend a Garden is an independent game made on Roblox. This site is not affiliated with or endorsed by Roblox Corporation.",
+  "notfound_title": "This path is overgrown",
+  "notfound_text": "The page you were looking for isn't here. Head back to the garden."
+}

@@ -1,0 +1,34 @@
+{
+  "siteUrl": "https://stefanspinuion-star.github.io/defend-a-garden",
+  "basePath": "/defend-a-garden/",
+  "playUrl": "https://www.roblox.com/games/109195400982131",
+  "gameUrl": "https://www.roblox.com/games/109195400982131",
+  "community": "https://www.roblox.com/communities/1015317157",
+  "bluesky": "https://bsky.app/profile/defendagarden.bsky.social",
+  "passes": [
+    {"key": "wind_staff", "id": 2067307731, "price": 249, "img": "pass-wind-staff.webp"},
+    {"key": "seed_rain", "id": 2067199671, "price": 249, "img": "pass-seed-rain.webp"},
+    {"key": "keepers_book", "id": 2066904321, "price": 299, "img": "pass-keepers-book.png"},
+    {"key": "starter_pack", "id": 2067180308, "price": 79, "img": "pass-starter-pack.png"},
+    {"key": "extra_plot", "id": 1962822962, "price": 149, "img": "pass-extra-plot.png"}
+  ],
+  "products": [
+    {"key": "second_dawn", "price": 19},
+    {"key": "book_30", "price": 79},
+    {"key": "style_30", "price": 89}
+  ],
+  "roadmap": [
+    {"key": "chapter2", "status": "live", "date": "2026-10-18"},
+    {"key": "altar", "status": "live", "date": "2026-11-02"},
+    {"key": "bridge_first", "status": "next", "date": "2026-11-06"},
+    {"key": "boss_week", "status": "next", "date": "2026-11-09"},
+    {"key": "first_night", "status": "next"},
+    {"key": "bridge_last", "status": "planned", "date": "2026-11-23"},
+    {"key": "chapter3", "status": "planned"},
+    {"key": "winter_hunts", "status": "planned"}
+  ],
+  "codes": [],
+  "codesChecked": "2026-11-03",
+  "privacyUpdated": "2026-11-03",
+  "pressShots": ["riot", "boss-sky", "night-garden", "pier", "constellation", "lane"]
+}
