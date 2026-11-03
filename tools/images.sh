@@ -17,7 +17,8 @@ crop() {
 crop hero          hero_c              1652:684:260:0    1652
 crop hero-mobile   hero_c              760:684:560:0     760
 crop riot          riot_lane_8         1216:684:340:0    1216
-crop boss-sky      boss_constellation  1066:600:0:82     1066
+# boss-sky: the raw PNG was lost on 2026-11-03; its 1066x600 crop (q2 JPEG) is the source now.
+ffmpeg -hide_banner -loglevel error -y -i "$RAW/boss_constellation_crop.jpg" -c:v libwebp -quality 82 "$O/boss-sky.webp"
 crop night-garden  night_garden_boss   1216:684:340:0    1216
 crop pier          pier_islet          1216:684:600:0    1216
 crop constellation constellation_night 1216:684:342:0    1216
