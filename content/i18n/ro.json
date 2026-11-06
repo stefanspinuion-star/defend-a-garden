@@ -44,7 +44,7 @@
   "all_news": "Toate noutățile",
   "read_more": "Citește mai departe",
   "cta_title": "Vino să păzești grădina",
-  "cta_text": "Ai găsit un secret? Spune-le altor Păzitori în comunitatea noastră de pe Roblox. Nimeni nu le are pe toate.",
+  "cta_text": "Ai găsit un secret? Spune-le altor Păzitori în comunitatea noastră de pe Roblox sau pe Discord. Nimeni nu le are pe toate.",
   "community": "Comunitatea pe Roblox",
   "tags": {"update": "Actualizare", "notes": "Notițele Păzitorului", "story": "Poveste"},
   "news_title": "Noutăți",
@@ -123,7 +123,7 @@
   "privacy": [
     "Acest site nu folosește cookie-uri, statistici, trackere sau conturi și nu are formulare. Nu colectăm nimic despre tine aici.",
     "Site-ul este găzduit pe **GitHub Pages**. Ca orice găzduire, GitHub poate păstra jurnale tehnice (de exemplu adrese IP) ca serviciul să funcționeze și să fie protejat; vezi declarația de confidențialitate GitHub.",
-    "Linkurile spre Roblox și Bluesky duc la acele servicii, care au propriile politici de confidențialitate. Jocul rulează pe Roblox, conform Termenilor de utilizare și Politicii de confidențialitate Roblox."
+    "Linkurile spre Roblox, Discord și Bluesky duc la acele servicii, care au propriile politici de confidențialitate. Jocul rulează pe Roblox, conform Termenilor de utilizare și Politicii de confidențialitate Roblox."
   ],
   "updated": "Actualizat",
   "disclaimer": "Defend a Garden este un joc independent făcut pe Roblox. Acest site nu este afiliat cu Roblox Corporation și nici aprobat de aceasta.",

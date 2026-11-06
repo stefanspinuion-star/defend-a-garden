@@ -44,7 +44,7 @@
   "all_news": "All news",
   "read_more": "Read more",
   "cta_title": "Come and keep the garden",
-  "cta_text": "Found a secret? Tell other Keepers in our Roblox community. Nobody holds them all.",
+  "cta_text": "Found a secret? Tell other Keepers in our Roblox community or on Discord. Nobody holds them all.",
   "community": "Roblox community",
   "tags": {"update": "Update", "notes": "Keeper's notes", "story": "Story"},
   "news_title": "News",
@@ -123,7 +123,7 @@
   "privacy": [
     "This website does not use cookies, analytics, trackers or accounts, and it has no forms. We do not collect anything about you here.",
     "The site is hosted on **GitHub Pages**. Like any web host, GitHub may keep technical logs (such as IP addresses) to run and protect the service; see GitHub's privacy statement.",
-    "Links to Roblox and Bluesky lead to those services, which have their own privacy policies. The game itself runs on Roblox under the Roblox Terms of Use and Privacy Policy."
+    "Links to Roblox, Discord and Bluesky lead to those services, which have their own privacy policies. The game itself runs on Roblox under the Roblox Terms of Use and Privacy Policy."
   ],
   "updated": "Last updated",
   "disclaimer": "Defend a Garden is an independent game made on Roblox. This site is not affiliated with or endorsed by Roblox Corporation.",

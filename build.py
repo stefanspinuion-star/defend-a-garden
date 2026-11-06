@@ -131,6 +131,7 @@ def body_index(lang: str) -> str:
   <p>{rich(t["cta_text"])}</p>
   <div class="actions">{play_button(lang)}
     <a class="btn btn-ghost" href="{e(SITE["community"])}" rel="noopener">{e(t["community"])}</a>
+    <a class="btn btn-ghost" href="{e(SITE["discord"])}" rel="noopener">Discord</a>
     <a class="btn btn-ghost" href="{e(SITE["bluesky"])}" rel="noopener">Bluesky</a></div>
 </section>"""
 
@@ -287,6 +288,7 @@ def shell(lang: str, page: str, body: str) -> str:
 <main id="main">{body}</main>
 <footer class="foot"><div class="wrap">
   <p>{play_button(lang, " btn-small")} <a href="{e(SITE["community"])}" rel="noopener">{e(t["community"])}</a> ·
+  <a href="{e(SITE["discord"])}" rel="noopener">Discord</a> ·
   <a href="{e(SITE["bluesky"])}" rel="noopener">Bluesky</a> · <a href="{href(lang, 'press', lang)}">{e(t["nav"]["press"])}</a> ·
   <a href="{href(lang, 'privacy', lang)}">{e(t["titles"]["privacy"])}</a></p>
   <p class="fine">{e(t["disclaimer"])}</p>
